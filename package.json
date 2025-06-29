@@ -4,9 +4,9 @@
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name vajira-md",
-      "stop": "pm2 stop vajira-md",
-     "restart": "pm2 restart vajira-md"
+      "start": "pm2 start index.js --deep-monitoring --attach --name DAVINCS-XMD",
+      "stop": "pm2 stop DAVINCS-XMD",
+     "restart": "pm2 restart DAVINCS-XMD"
     },
   "dependencies": {
    "@whiskeysockets/baileys": "^6.7.17",          
